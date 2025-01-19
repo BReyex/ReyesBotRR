@@ -1,0 +1,6 @@
+selenium
+beautifulsoup4
+python-telegram-bot
+asyncio
+bs4
+undetected_chromedriver
